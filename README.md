@@ -7,7 +7,7 @@ Este é um projeto simples em Java para o **cadastro de produtos**, utilizando *
 - Cadastro de até três produtos
 - Exibição das informações do produto: nome, preço original, desconto e valor final com o desconto
 - Cálculo do valor final do produto considerando o desconto
-- 
+  
 ## Tecnologias
 
 - Linguagem: Java
